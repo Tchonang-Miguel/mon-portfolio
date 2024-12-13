@@ -1,0 +1,21 @@
+body{
+    background-color:black;
+}
+.centrer {text-align: center;
+    color:black;
+text-decoration: underline; color: yellowgreen}
+    img{
+        border-radius: 50%;
+        text-align: center;
+        border: 5px solid aqua; 
+    }
+    .centrer1{
+        text-align: center;
+    }
+    .now{
+        text-align: center;
+        color: aqua;
+    }
+    .first{
+        color: greenyellow;
+    }

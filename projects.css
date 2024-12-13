@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+.first{
+    display: flex;
+    left: 100px;
+    position: relative;
+    color: aqua;
+}
+
+.two{
+   display: flex; 
+   left: 800px;
+   bottom: 580px;
+   text-align:center;
+    position: relative;
+    color: aqua;
+}
+.centrer1{
+    text-align: center;
+    color:goldenrod
+}
+.centrer2{
+    text-align: center;
+    color:burlywood
+}
+.a{
+    text-align: center;
+    color: green;
+}
+.b{
+    text-align:center;
+    color: red;
+}
+.c{
+    text-align:center;
+    color: yellowgreen;
+}
+.ok{
+    border: 3px solid greenyellow; 
+}
+.okk{
+    border: 4px solid greenyellow; 
+}
